@@ -1,1 +1,1 @@
-﻿// Write your JavaScript code.
+﻿console.log("Hello world");
